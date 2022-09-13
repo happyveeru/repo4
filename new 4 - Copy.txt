@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<tittle> </tittle>
+</head>
+
+<body bgcolor="aqua" text="red" background="C:\Users\happy\OneDrive\VeeraPhoto.File folder">
+welcome to html <br/>
+</body>
+</html>
